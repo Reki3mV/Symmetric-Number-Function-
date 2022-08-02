@@ -1,6 +1,9 @@
-<h1>Funcion Numero Simetrico </h1>
+<h1>Symmetric Number Function </h1>
 
-<p>
-  True or False dependiendo si el numero solicitado es simetrico o no.
-  Un numero Simetrico es aquel que es igual a su reverso ejemplo 1221 es igual leido de ambos lados.
-</p>
+<h2>
+  Returns True or False depending on whether the requested number is symmetric or not.
+</h2>
+<p>FACT:</p>
+<ul>
+  <li>    A symmetric number is one that is equal to its reverse example 1221 is the same read from both sides.</li>
+</ul>
